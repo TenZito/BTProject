@@ -1,0 +1,14 @@
+dill==0.3.4
+dominate==2.6.0
+h5py==3.6.0
+imageio==2.17.0
+matplotlib==3.5.1
+numpy==1.22.3
+Pillow==9.1.0
+pycocotools==2.0.4
+scipy==1.8.0
+skimage==0.0
+tensorflow==2.8.0
+torch==1.11.0
+torch_scatter==2.0.9
+torchvision==0.12.0
